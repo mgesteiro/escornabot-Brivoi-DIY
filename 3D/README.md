@@ -1,27 +1,38 @@
 # Escornabot COVID19 - 3D models
 
-Updated models of the Escornabot Brivoi-DIY version to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful for others too).
+Updated models of the **Escornabot Brivoi-DIY** version to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful for others too).
 
 ### Battery bracket
+Added configuration params to better fit the dimesions of the battery holder.
 ![battery-bracket](battery-bracket.png)
 
 ### Motor bracket
+Changed the connection joint to the battery bracket: easier, simpler and more robust.
 ![motor-bracket](motor-bracket.png)
 
 ### Ball caster
+Just converted to Part-Design workbench.
 ![ball-caster](ball-caster.png)
 
 ### Keypad holder
+Added estructural support for the screw holders: easier to print and more robust.
 ![keypad-holder](keypad-holder.png)
 
 ### Switch holder
+Converted to Part-Design workbench.
 ![switch-holder](switch-holder.png)
 
 ### Board bracket
+Converted to Part-Design workbench and updated supports for the stepper driver boards that should not move now.
 ![board-bracket](board-bracket.png)
 
 ### Wheels
+Circular bed for the o-ring (no more "v"). Updated "L" and "R" letters and dimensions of some of the holes. Part-Design only.
 ![wheels](wheel.png)
+
+### Keypad cover
+This one is new, for my own Ki-CAD keyboard with BF13 buttons and caps.
+![keypad-cover](keypad-cover.png)
 
 
 ## LICENSE
