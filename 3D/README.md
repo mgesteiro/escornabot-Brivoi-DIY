@@ -1,8 +1,12 @@
 # Escornabot COVID19 - 3D models
 
-Updated models of the **Escornabot Brivoi-DIY** version to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful for others too).
+Updated models of the **Escornabot Brivoi-DIY** version to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful to others too).
 
-![Escornabot pieces](escornabot_nude.png)
+![Escornabot](escornabot_full.png)
+
+* Now with full assembly file (for the [Assembly4 FreeCAD workbench](https://wiki.freecadweb.org/Assembly4_Workbench)): [escornabot.FCStd](escornabot.FCStd)
+* Additional non printable 3D parts in the `parts` folder
+* STL files already generated and ready to use
 
 ### Battery bracket
 New v-shaped joint for the motor bracket. Added configuration params to better fit different battery holder dimesions.
