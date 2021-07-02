@@ -1,19 +1,19 @@
 # Escornabot COVID19 - 3D models
 
-Updated models of the **Escornabot Brivoi-DIY** version to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful to others too).
+Updated 3D models of the **Escornabot Brivoi-DIY** to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (explained below), that may be useful to others too.
 
 ![Escornabot](escornabot_full.png)
 
-* Now with full assembly file (for the [Assembly4 FreeCAD workbench](https://wiki.freecadweb.org/Assembly4_Workbench)): [escornabot.FCStd](escornabot.FCStd)
+* Now with a full assembly file (for the [Assembly4 FreeCAD workbench](https://wiki.freecadweb.org/Assembly4_Workbench)): **[escornabot.FCStd](escornabot.FCStd)**
 * Additional non printable 3D parts in the `parts` folder
 * STL files already generated and ready to use
 
 ### Battery bracket
-New v-shaped joint for the motor bracket. Added configuration params to better fit different battery holder dimesions.
+New v-shaped joint for the motor bracket (borrowed from [Xoan](https://github.com/xoan?tab=repositories&q=escornabot)). Added configuration params to better fit different battery holder dimensions as I've found important differences.
 ![battery-bracket](battery-bracket.png)
 
 ### Motor bracket
-Update connection joint to the battery bracket: easier, simpler and more robust.
+Updated connection joint to the battery bracket: easier, simpler and more robust. Additional support for the stepper motor tabs.
 ![motor-bracket](motor-bracket.png)
 
 ### Keypad holder
@@ -25,7 +25,7 @@ Converted to Part-Design workbench and updated supports for the stepper driver b
 ![board-bracket](board-bracket.png)
 
 ### Ball caster
-Added configuration params (ball diameter) and converted to Part-Design workbench.
+Added configuration params (e.g. ball diameter) and converted to Part-Design workbench.
 ![ball-caster](ball-caster.png)
 
 ### Switch holder
@@ -33,7 +33,7 @@ Converted to Part-Design workbench and redesigned.
 ![switch-holder](switch-holder.png)
 
 ### Wheels
-Circular bed for the o-ring (no more "v"). Updated "L" and "R" letters and dimensions of some of the holes. Part-Design only.
+Circular bed for the o-ring (no more "v"). Updated "L" and "R" letters and dimensions of some of the holes. Converted to Part-Design only. Available [base wheel](wheel-base.FCStd) ready to be customized.
 ![wheel-left](wheel-left.png)
 ![wheel-right](wheel-right.png)
 
@@ -46,7 +46,7 @@ This one is new, for [my own Ki-CAD keyboard](https://github.com/mgesteiro/escor
 I made a couple of extra models:
 
 ### Escornaface
-A piece to personalice your Escornabot: put your name or whatever you want.
+A piece to customize your Escornabot: put your name (or whatever you want).
 ![escornaface](escornaface.png)
 
 ### Ogaki CPU holder
