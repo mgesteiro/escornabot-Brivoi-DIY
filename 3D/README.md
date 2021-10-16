@@ -3,6 +3,7 @@
 Updated 3D models of the **Escornabot Brivoi-DIY** to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (explained below), that may be useful to others too.
 
 ![Escornabot](escornabot_full.png)
+![Escornabot](escornabot_escornaface_full.png)
 
 * Now with a full assembly file (for the [Assembly4 FreeCAD workbench](https://wiki.freecadweb.org/Assembly4_Workbench)): **[escornabot.FCStd](escornabot.FCStd)**
 * Additional non printable 3D parts in the `parts` folder
