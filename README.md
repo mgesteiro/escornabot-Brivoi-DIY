@@ -1,9 +1,11 @@
 # Escornabot Brivoi-DIY
 My own update to some parts of the [Escornabot project](https://github.com/escornabot) started during the COVID-19 lockdown.
 
-* **3D:** Inspired in the genius work and lessons from [Xoan](https://github.com/xoan?tab=repositories&q=escornabot), updated the **Brivoi-DIY** models to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful for others too).
+* **[3D](3D/):** Inspired in the genius work and lessons from [Xoan](https://github.com/xoan?tab=repositories&q=escornabot), I updated the **Brivoi-DIY** models to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful for others too).
 
-* **fritzing:** Connections schematic done with [Fritzing](https://fritzing.org).
+* **Electronics:** Everything related to the electronic part of the robot
+    * **[Connections](electronics/connections/):** main schematic (done with [Fritzing](https://fritzing.org)).
+    * **[Bluetooth Lower Energy](electronics/bluetooth/):** schematic, control App and firmware.
 
 
 ## LICENSE
