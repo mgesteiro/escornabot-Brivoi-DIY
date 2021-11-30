@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 54 54"
+   version="1.1"
+   id="svg1219"
+   width="54"
+   height="54"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1223" />
+  <g
+     id="g2076"
+     transform="translate(1.9999979,1.9999998)">
+    <ellipse
+       style="fill:#0082ff;fill-opacity:1;stroke:#000000;stroke-width:0.49995;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path922"
+       cx="25"
+       cy="25"
+       rx="24.750023"
+       ry="24.750025" />
+    <path
+       d="m 21.602829,37.775752 -1e-6,-18.022001 h -3.529 c -0.254,0 -0.48,-0.154 -0.576,-0.387 -0.096,-0.23 -0.041,-0.498 0.135,-0.68 l 6.938,-6.904 c 0.24,-0.24 0.633,-0.24 0.875,0.004 l 6.916,6.904 c 0.186,0.178 0.238,0.443 0.135,0.676 -0.09,0.232 -0.318,0.387 -0.568,0.387 h -3.932 l 1e-6,18.022001 c 0,0.348 -0.277,0.621 -0.621,0.621 h -5.152 c -0.352228,-0.0072 -0.621,-0.279 -0.621,-0.621 z"
+       id="01"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
