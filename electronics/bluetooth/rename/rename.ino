@@ -1,15 +1,18 @@
 /*
  * Tool to rename your HM-10 bluetooth dongle
- * v1.0 - 20211201
+ * v1.01 - 20211201
  * 
- * 1. Change the name you want for your robot from ESCORNABOT to something different in
- *    the first "#define" line of the code.
- * 2. Unplug the dongle from the Escornabot.
+ * 1. Change the name you want for your robot from "ESCORNABOT" to something
+ *    different in the first "#define" line of the code.
+ * 2. Unplug the VCC wire from the dongle.
  * 3. Upload this Arduino sketch to your Escornabot.
- * 4. Replug the dongle to the Escornabot and restart it: after 2 seconds, you should 
- *    see the onboard LED flashing twice (first check), and after 2 more seconds, five 
- *    more times if everything went OK (second check).
- * 5. Reflash your Escornabot with its original firmware again and enjoy!
+ * 4. Replug the VCC wire to the dongle and restart the Escornabot:
+ *    after two seconds, you should see the onboard LED flashing twice
+ *    (first check), and after two more seconds, it should flash five more
+ *    times if everything went OK (second check).
+ * 5. Reflash your Escornabot with its original firmware again (remember to
+ *    unplug the VCC wire in the dongle before uploading and reconnect it
+ *    after finishing) and enjoy!
  *    (https://www.roboteach.es/escornabot-firmware/)
  */
 
