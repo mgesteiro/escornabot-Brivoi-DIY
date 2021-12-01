@@ -25,6 +25,10 @@ For **iOS systems** you can use the [Escornabot BLE app](https://apps.apple.com/
 
 Finally, if you like to tinker yourself, you can use **any BLE App, Escanner or tool** that allows you to connect and send characters to the dongle: you should send any of the `[n, w, g, e, s, N, W, G, E, S]` characters followed by a line feed (`LF` or `\n`) as commands (**n**orth, **s**outh, **e**ast, **w**est and **g**o).
 
+## RENAME YOUR DONGLE
+If you want to rename your dongle/robot you can use the Arduino sketch found in the [`rename`](rename/) folder: open it with the Arduino IDE and follow the instructions.
+
+
 ## LICENSE
 
 This work is licensed under the [GNU General Public License v3.0](../LICENSE-GPLV30). All media and data files that are not source code are licensed under the [Creative Commons Attribution 4.0 BY-SA license](../LICENSE-CCBYSA40).
