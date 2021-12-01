@@ -10,7 +10,7 @@ These are the six additional connections required for the [main basic schematic]
 * The pink wire/jumper is **under the Arduino Nano**, to extend the GND connection to the first low column of the protobard, where the **R1** resistor is connected.
 
 ## ENABLING Bluetooth
-If you want to use *Bluetooth connectivity* in your **Escornabot**, please make sure that **it is ENABLED** in its firmware: before [compiling and uploading it](https://www.roboteach.es/escornabot-firmware/) edit the `Config.h` file and make sure that this line is enabled (=`true`) like this:
+If you want to use *Bluetooth connectivity* in your **Escornabot**, please make sure that **it is ENABLED** in its firmware: before [compiling and uploading it](https://www.roboteach.es/escornabot-firmware/) edit the `Configuration.h` file and make sure that this line is enabled (=`true`) like this:
 
 `#define USE_BLUETOOTH true`
 
