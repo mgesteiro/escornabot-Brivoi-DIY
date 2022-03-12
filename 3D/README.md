@@ -23,7 +23,12 @@ Thinner. Added estructural support for the screw holders: easier to print and mo
 
 ### Board bracket
 Converted to Part-Design workbench and updated supports for the stepper driver boards that should not move now.
-![board-bracket](board-bracket.png)
+
+* MiniBread Board 170 contacts by Robotdyn **without notches** (not available anymore)
+	![board-bracket](board-bracket.png)
+
+* MiniBread Board 170 contacts with notches (more common)
+	![board-bracket-alternate](board-bracket-alternate.png)
 
 ### Ball caster
 Added configuration params (e.g. ball diameter) and converted to Part-Design workbench.

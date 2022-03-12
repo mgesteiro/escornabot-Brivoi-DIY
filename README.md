@@ -3,9 +3,14 @@ My own update to some parts of the [Escornabot project](https://github.com/escor
 
 * **[3D](3D/):** Inspired in the genius work and lessons from [Xoan](https://github.com/xoan?tab=repositories&q=escornabot), I updated the **Brivoi-DIY** models to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (that may be useful for others too).
 
+    ![Escornabot](3D/escornabot.png)
+
 * **Electronics:** Everything related to the electronic part of the robot
     * **[Connections](electronics/connections/):** main schematic (done with [Fritzing](https://fritzing.org)).
     * **[Bluetooth Lower Energy](electronics/bluetooth/):** schematic, control App and firmware.
+
+    ![Connections](electronics/connections/connections.svg)
+    ![BluetoothApp](electronics/bluetooth/control-app/mobile.png)
 
 
 ## LICENSE
