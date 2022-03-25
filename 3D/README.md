@@ -1,4 +1,4 @@
-# Escornabot COVID19 - 3D models
+# Escornabot Brivoi-DIY - 3D models
 
 Updated 3D models of the **Escornabot Brivoi-DIY** to the last version of [FreeCAD](https://freecadweb.org) (v0.19), using exclusively the **Part-Design workbench** and including some minor changes to suit my own personal needs and issues (explained below), that may be useful to others too.
 
@@ -30,9 +30,12 @@ Converted to Part-Design workbench and updated supports for the stepper driver b
 * MiniBread Board 170 contacts with notches (more common)
 	![board-bracket-alternate](board-bracket-alternate.png)
 
-### Ball caster
+### Ball caster and Ball caster battery
 Added configuration params (e.g. ball diameter) and converted to Part-Design workbench.
 ![ball-caster](ball-caster.png)
+
+With support for fifth HR06/AA 1.2V NiMH battery
+![ball-caster-battery](ball-caster-battery.png)
 
 ### Switch holder
 Converted to Part-Design workbench and redesigned.
@@ -54,6 +57,10 @@ I made a couple of extra models:
 ### Escornaface
 A piece to customize your Escornabot: put your name (or whatever you want).
 ![escornaface](escornaface.png)
+
+### Battery bracket *Escornabot Pintor Kit*
+A battery holder with pre-drilled holes to support the [Escornabot Pintor Kit](https://github.com/einsua/Escornabot_Pintor_Kit)
+![battery-bracket-kit](battery-bracket-kit.png)
 
 ### Ogaki CPU holder
 In case you have an Abierto's Ogaki Escornabot: use instead of the **keypad holder** and **board bracket**.
